@@ -1,0 +1,10 @@
+streamlit
+gtts
+requests
+beautifulsoup4
+geopy
+pydub
+streamlit
+gtts
+requests
+pydub
