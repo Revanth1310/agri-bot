@@ -14,17 +14,17 @@ AgriBot is an AI-driven chatbot designed to provide farmers with real-time agric
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/agribot.git
-Navigate to the project directory:
+2.Navigate to the project directory:
 
-'''bash
+   ```bash
    cd agribot
-Install dependencies:
+3.Install dependencies:
 
-'''bash
+   ```bash
    pip install -r requirements.txt
-Run the application:
+4.Run the application:
 
-'''bash
+   '''bash
    streamlit run app.py
 ##Usage
 Open the application in your browser.
