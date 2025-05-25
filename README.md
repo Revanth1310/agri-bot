@@ -30,7 +30,7 @@ AgriBot is an AI-driven chatbot designed to provide farmers with real-time agric
     streamlit run app.py
    ```
 
-##Usage
+Usage
 
 Open the application in your browser.
 
