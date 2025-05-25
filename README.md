@@ -20,14 +20,18 @@ AgriBot is an AI-driven chatbot designed to provide farmers with real-time agric
    cd agribot
  ```
 3.Install dependencies:
-    ```bash
+
+   ```bash
    pip install -r requirements.txt
-    ```
+   ```
 4.Run the application:
-    ```bash
+
+   ```bash
     streamlit run app.py
-    ```
+   ```
+
 ##Usage
+
 Open the application in your browser.
 
 Select your preferred language.
