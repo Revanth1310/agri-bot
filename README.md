@@ -41,15 +41,7 @@ Start chatting with AgriBot to receive personalized agricultural advice.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-
-
----
-
-Feel free to customize these templates to better fit your project's specifics. Let me know if you need assistance with anything else!
-::contentReference[oaicite:0]{index=0}
  
 
 
